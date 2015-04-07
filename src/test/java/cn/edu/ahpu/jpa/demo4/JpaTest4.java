@@ -7,8 +7,6 @@ import javax.persistence.Persistence;
 import org.junit.Before;
 import org.junit.Test;
 
-import cn.edu.ahpu.jpa.demo3.bean.IdCard;
-
 public class JpaTest4 {
 	private String persistenceUnitName = "ahpu";//persistence.xml中<persistence-unit/>的name属性
 

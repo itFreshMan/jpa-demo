@@ -15,8 +15,8 @@ import javax.persistence.Table;
 @Table(name="orders")
 public class Order {
 	private Float amount = 0f;
-	private Set<OrderItem> items = new HashSet<OrderItem>();
 	private String orderid;
+	private Set<OrderItem> items = new HashSet<OrderItem>();
 
 	public Order(Float amount, String orderid) {
 		super();

@@ -23,6 +23,8 @@ public class Student {
 	@ManyToMany(cascade = CascadeType.REFRESH)
 	@JoinTable(name="students_teachers",inverseJoinColumns={@JoinColumn(name="tch_id")},
 			joinColumns={@JoinColumn(name="stu_id")})
+	//inverseJoinColumns指定被维护端字段的名称
+	//joinColumns指定维护短字段名称
 	public Set<Teacher> getTeachers() {
 		return teachers;
 	}

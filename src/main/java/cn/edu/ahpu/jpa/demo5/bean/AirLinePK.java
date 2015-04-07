@@ -16,13 +16,14 @@ public class AirLinePK implements Serializable{
 		return startCity;
 	}
 
-	public void setStartCity(String startCity) {
-		this.startCity = startCity;
-	}
-
 	@Column(length = 10 ,nullable = false)
 	public String getEndCity() {
 		return endCity;
+	}
+	
+
+	public void setStartCity(String startCity) {
+		this.startCity = startCity;
 	}
 
 	public void setEndCity(String endCity) {
