@@ -1,0 +1,5 @@
+2015-04-07 15:08:10  [ main:0 ] - [ ERROR ]  Unsuccessful: create table Order (orderid varchar(12) not null, amount float not null, primary key (orderid))
+2015-04-07 15:08:10  [ main:34 ] - [ ERROR ]  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Order (orderid varchar(12) not null, amount float not null, primary key (orderid' at line 1
+2015-04-07 15:08:10  [ main:660 ] - [ ERROR ]  Unsuccessful: alter table OrderItem add index FK60163F615322BB35 (order_id), add constraint FK60163F615322BB35 foreign key (order_id) references Order (orderid)
+2015-04-07 15:08:10  [ main:660 ] - [ ERROR ]  You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'Order (orderid)' at line 1
+2015-04-07 15:19:11  [ main:1 ] - [ ERROR ]  Duplicate entry '999' for key 'PRIMARY'

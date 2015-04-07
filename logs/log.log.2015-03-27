@@ -1,0 +1,403 @@
+2015-03-27 08:57:36  [ main:0 ] - [ INFO ]  调度起启动： 2015-03-27 08:57:036
+2015-03-27 09:02:21  [ main:0 ] - [ INFO ]  调度起启动： 2015-03-27 09:02:021
+2015-03-27 09:02:43  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:02:43 CST 2015
+2015-03-27 09:02:43  [ DefaultQuartzScheduler_Worker-9:0 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:02:43 CST 2015
+2015-03-27 09:02:53  [ DefaultQuartzScheduler_Worker-4:10000 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:02:53 CST 2015
+2015-03-27 09:03:03  [ DefaultQuartzScheduler_Worker-3:20000 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:03:03 CST 2015
+2015-03-27 09:03:13  [ DefaultQuartzScheduler_Worker-4:30001 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:03:13 CST 2015
+2015-03-27 09:03:23  [ DefaultQuartzScheduler_Worker-1:40002 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:03:23 CST 2015
+2015-03-27 09:03:33  [ DefaultQuartzScheduler_Worker-6:50002 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:03:33 CST 2015
+2015-03-27 09:51:05  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:51:05 CST 2015
+2015-03-27 09:51:05  [ DefaultQuartzScheduler_Worker-9:0 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:51:05 CST 2015
+2015-03-27 09:51:15  [ DefaultQuartzScheduler_Worker-1:10001 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:51:15 CST 2015
+2015-03-27 09:51:25  [ DefaultQuartzScheduler_Worker-5:20002 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:51:25 CST 2015
+2015-03-27 09:51:35  [ DefaultQuartzScheduler_Worker-5:30004 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:51:35 CST 2015
+2015-03-27 09:51:45  [ DefaultQuartzScheduler_Worker-2:40009 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:51:45 CST 2015
+2015-03-27 09:51:55  [ DefaultQuartzScheduler_Worker-1:49997 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:51:55 CST 2015
+2015-03-27 09:52:20  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:52:20 CST 2015
+2015-03-27 09:52:39  [ DefaultQuartzScheduler_Worker-9:19380 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:52:39 CST 2015
+2015-03-27 09:53:06  [ DefaultQuartzScheduler_Worker-0:46358 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:53:06 CST 2015
+2015-03-27 09:53:06  [ DefaultQuartzScheduler_Worker-5:46796 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:53:06 CST 2015
+2015-03-27 09:53:07  [ DefaultQuartzScheduler_Worker-4:46967 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:53:07 CST 2015
+2015-03-27 09:53:07  [ DefaultQuartzScheduler_Worker-8:47139 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:53:07 CST 2015
+2015-03-27 09:56:39  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:56:39 CST 2015
+2015-03-27 09:56:39  [ DefaultQuartzScheduler_Worker-9:16 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:56:39 CST 2015
+2015-03-27 09:56:39  [ DefaultQuartzScheduler_Worker-9:16 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]!
+2015-03-27 09:56:39  [ DefaultQuartzScheduler_Worker-9:16 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 09:56:49  [ DefaultQuartzScheduler_Worker-1:10024 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:56:49 CST 2015
+2015-03-27 09:56:49  [ DefaultQuartzScheduler_Worker-1:10024 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]!
+2015-03-27 09:56:49  [ DefaultQuartzScheduler_Worker-1:10024 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 09:56:59  [ DefaultQuartzScheduler_Worker-1:20025 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:56:59 CST 2015
+2015-03-27 09:56:59  [ DefaultQuartzScheduler_Worker-1:20025 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]!
+2015-03-27 09:56:59  [ DefaultQuartzScheduler_Worker-1:20025 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 09:58:24  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:58:24 CST 2015
+2015-03-27 09:58:24  [ DefaultQuartzScheduler_Worker-9:15 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:58:24 CST 2015
+2015-03-27 09:58:24  [ DefaultQuartzScheduler_Worker-9:15 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input],scheduler执行shutdown().......!
+2015-03-27 09:58:24  [ DefaultQuartzScheduler_Worker-9:15 ] - [ WARN ]  scheduler关闭!
+2015-03-27 09:58:24  [ DefaultQuartzScheduler_Worker-9:15 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 09:58:31  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:58:31 CST 2015
+2015-03-27 09:58:31  [ DefaultQuartzScheduler_Worker-9:15 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:58:31 CST 2015
+2015-03-27 09:58:31  [ DefaultQuartzScheduler_Worker-9:15 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input],scheduler执行shutdown().......!
+2015-03-27 09:58:31  [ DefaultQuartzScheduler_Worker-9:15 ] - [ WARN ]  scheduler关闭!
+2015-03-27 09:58:31  [ DefaultQuartzScheduler_Worker-9:15 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 09:58:40  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:58:40 CST 2015
+2015-03-27 09:58:40  [ DefaultQuartzScheduler_Worker-9:16 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:58:40 CST 2015
+2015-03-27 09:58:40  [ DefaultQuartzScheduler_Worker-9:16 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input],scheduler执行shutdown().......!
+2015-03-27 09:58:40  [ DefaultQuartzScheduler_Worker-9:16 ] - [ WARN ]  scheduler关闭!
+2015-03-27 09:58:40  [ DefaultQuartzScheduler_Worker-9:16 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 09:58:45  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 09:58:45 CST 2015
+2015-03-27 09:58:49  [ DefaultQuartzScheduler_Worker-8:4750 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 09:58:49 CST 2015
+2015-03-27 09:58:52  [ DefaultQuartzScheduler_Worker-8:6857 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input],scheduler执行shutdown().......!
+2015-03-27 09:58:56  [ DefaultQuartzScheduler_Worker-8:11506 ] - [ WARN ]  scheduler关闭!
+2015-03-27 09:59:03  [ DefaultQuartzScheduler_Worker-8:18481 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 10:11:17  [ main:0 ] - [ INFO ]  Scheduler started at Fri Mar 27 10:11:17 CST 2015
+2015-03-27 10:11:17  [ DefaultQuartzScheduler_Worker-2:31 ] - [ INFO ]  ScanDirectory2 fired at Fri Mar 27 10:11:17 CST 2015
+2015-03-27 10:11:17  [ DefaultQuartzScheduler_Worker-9:31 ] - [ INFO ]  ScanDirectory1 fired at Fri Mar 27 10:11:17 CST 2015
+2015-03-27 10:11:17  [ DefaultQuartzScheduler_Worker-2:31 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input2]
+2015-03-27 10:11:17  [ DefaultQuartzScheduler_Worker-9:31 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input1]
+2015-03-27 10:11:17  [ DefaultQuartzScheduler_Worker-2:31 ] - [ INFO ]  No XML files found in c:\quartz-book\input2
+2015-03-27 10:11:17  [ DefaultQuartzScheduler_Worker-9:31 ] - [ INFO ]  No XML files found in c:\quartz-book\input1
+2015-03-27 10:11:27  [ DefaultQuartzScheduler_Worker-5:10033 ] - [ INFO ]  ScanDirectory1 fired at Fri Mar 27 10:11:27 CST 2015
+2015-03-27 10:11:27  [ DefaultQuartzScheduler_Worker-5:10033 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input1]
+2015-03-27 10:11:27  [ DefaultQuartzScheduler_Worker-5:10033 ] - [ INFO ]  No XML files found in c:\quartz-book\input1
+2015-03-27 10:11:32  [ DefaultQuartzScheduler_Worker-5:15027 ] - [ INFO ]  ScanDirectory2 fired at Fri Mar 27 10:11:32 CST 2015
+2015-03-27 10:11:32  [ DefaultQuartzScheduler_Worker-5:15027 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input2]
+2015-03-27 10:11:32  [ DefaultQuartzScheduler_Worker-5:15027 ] - [ INFO ]  No XML files found in c:\quartz-book\input2
+2015-03-27 10:11:37  [ DefaultQuartzScheduler_Worker-1:20037 ] - [ INFO ]  ScanDirectory1 fired at Fri Mar 27 10:11:37 CST 2015
+2015-03-27 10:11:37  [ DefaultQuartzScheduler_Worker-1:20037 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input1]
+2015-03-27 10:11:37  [ DefaultQuartzScheduler_Worker-1:20037 ] - [ INFO ]  No XML files found in c:\quartz-book\input1
+2015-03-27 10:11:47  [ DefaultQuartzScheduler_Worker-9:30040 ] - [ INFO ]  ScanDirectory1 fired at Fri Mar 27 10:11:47 CST 2015
+2015-03-27 10:11:47  [ DefaultQuartzScheduler_Worker-9:30040 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input1]
+2015-03-27 10:11:47  [ DefaultQuartzScheduler_Worker-9:30040 ] - [ INFO ]  No XML files found in c:\quartz-book\input1
+2015-03-27 10:11:47  [ DefaultQuartzScheduler_Worker-8:30040 ] - [ INFO ]  ScanDirectory2 fired at Fri Mar 27 10:11:47 CST 2015
+2015-03-27 10:11:47  [ DefaultQuartzScheduler_Worker-8:30040 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input2]
+2015-03-27 10:11:47  [ DefaultQuartzScheduler_Worker-8:30040 ] - [ INFO ]  No XML files found in c:\quartz-book\input2
+2015-03-27 11:48:30  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 11:56:14  [ main:0 ] - [ ERROR ]  ThreadPool class 'org.quartz.simpl.SimpleThreadPool2' could not be instantiated.
+2015-03-27 11:56:30  [ main:0 ] - [ ERROR ]  SchedulerPlugin class 'org.quartz.plugins.xml.JobInitializationPlugin   ' could not be instantiated.
+2015-03-27 11:56:54  [ main:0 ] - [ ERROR ]  SchedulerPlugin class 'org.quartz.plugins.xml.JobInitializationPlugin   ' could not be instantiated.
+2015-03-27 11:57:05  [ main:0 ] - [ ERROR ]  File named 'my_quartz_jobs.xml' does not exist.
+2015-03-27 11:57:24  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 11:58:34  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 11:58:34  [ main:176 ] - [ ERROR ]  End event threw exception
+org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1199)
+	at org.quartz.xml.JobSchedulingDataProcessor$SimpleConverterRule.end(JobSchedulingDataProcessor.java:1025)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1222)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:601)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1774)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2930)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:23)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:16)
+Caused by: java.text.ParseException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at java.text.DateFormat.parse(DateFormat.java:337)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.parseDate(JobSchedulingDataProcessor.java:1211)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1188)
+	... 24 more
+2015-03-27 11:58:34  [ main:180 ] - [ ERROR ]  Error scheduling jobs: Error at line 32 char 55: Unparseable date: "2015-03-27 10:45:00 PM"
+org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3181)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3207)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1225)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:601)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1774)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2930)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:23)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:16)
+Caused by: org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1199)
+	at org.quartz.xml.JobSchedulingDataProcessor$SimpleConverterRule.end(JobSchedulingDataProcessor.java:1025)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1222)
+	... 22 more
+Caused by: java.text.ParseException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at java.text.DateFormat.parse(DateFormat.java:337)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.parseDate(JobSchedulingDataProcessor.java:1211)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1188)
+	... 24 more
+2015-03-27 11:59:37  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 11:59:37  [ main:163 ] - [ ERROR ]  End event threw exception
+org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1199)
+	at org.quartz.xml.JobSchedulingDataProcessor$SimpleConverterRule.end(JobSchedulingDataProcessor.java:1025)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1222)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:601)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1774)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2930)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:23)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:16)
+Caused by: java.text.ParseException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at java.text.DateFormat.parse(DateFormat.java:337)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.parseDate(JobSchedulingDataProcessor.java:1211)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1188)
+	... 24 more
+2015-03-27 11:59:37  [ main:169 ] - [ ERROR ]  Error scheduling jobs: Error at line 32 char 55: Unparseable date: "2015-03-27 10:45:00 PM"
+org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3181)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3207)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1225)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:601)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1774)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2930)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:23)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:16)
+Caused by: org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1199)
+	at org.quartz.xml.JobSchedulingDataProcessor$SimpleConverterRule.end(JobSchedulingDataProcessor.java:1025)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1222)
+	... 22 more
+Caused by: java.text.ParseException: Unparseable date: "2015-03-27 10:45:00 PM"
+	at java.text.DateFormat.parse(DateFormat.java:337)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.parseDate(JobSchedulingDataProcessor.java:1211)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1188)
+	... 24 more
+2015-03-27 12:00:17  [ main:1 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 12:00:17  [ main:126 ] - [ ERROR ]  End event threw exception
+org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 AM"
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1199)
+	at org.quartz.xml.JobSchedulingDataProcessor$SimpleConverterRule.end(JobSchedulingDataProcessor.java:1025)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1222)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:601)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1774)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2930)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:21)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:14)
+Caused by: java.text.ParseException: Unparseable date: "2015-03-27 10:45:00 AM"
+	at java.text.DateFormat.parse(DateFormat.java:337)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.parseDate(JobSchedulingDataProcessor.java:1211)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1188)
+	... 24 more
+2015-03-27 12:00:17  [ main:132 ] - [ ERROR ]  Error scheduling jobs: Error at line 32 char 55: Unparseable date: "2015-03-27 10:45:00 AM"
+org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 AM"
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3181)
+	at org.apache.commons.digester.Digester.createSAXException(Digester.java:3207)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1225)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(AbstractSAXParser.java:601)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(XMLDocumentFragmentScannerImpl.java:1774)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(XMLDocumentFragmentScannerImpl.java:2930)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:21)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:14)
+Caused by: org.apache.commons.beanutils.ConversionException: Unparseable date: "2015-03-27 10:45:00 AM"
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1199)
+	at org.quartz.xml.JobSchedulingDataProcessor$SimpleConverterRule.end(JobSchedulingDataProcessor.java:1025)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1222)
+	... 22 more
+Caused by: java.text.ParseException: Unparseable date: "2015-03-27 10:45:00 AM"
+	at java.text.DateFormat.parse(DateFormat.java:337)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.parseDate(JobSchedulingDataProcessor.java:1211)
+	at org.quartz.xml.JobSchedulingDataProcessor$DateConverter.convert(JobSchedulingDataProcessor.java:1188)
+	... 24 more
+2015-03-27 12:03:34  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 12:03:40  [ QuartzScheduler_Worker-3:5628 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 12:03:40 CST 2015
+2015-03-27 12:03:40  [ QuartzScheduler_Worker-3:5628 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 12:03:40  [ QuartzScheduler_Worker-3:5629 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 12:03:50  [ QuartzScheduler_Worker-3:15572 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 12:03:50 CST 2015
+2015-03-27 12:03:50  [ QuartzScheduler_Worker-3:15576 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 12:03:50  [ QuartzScheduler_Worker-3:15577 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 12:04:00  [ QuartzScheduler_Worker-3:25572 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 12:04:00 CST 2015
+2015-03-27 12:04:00  [ QuartzScheduler_Worker-3:25573 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 12:04:00  [ QuartzScheduler_Worker-3:25574 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 12:04:10  [ QuartzScheduler_Worker-0:35570 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 12:04:10 CST 2015
+2015-03-27 12:04:10  [ QuartzScheduler_Worker-0:35572 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 12:04:10  [ QuartzScheduler_Worker-0:35573 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 12:04:20  [ QuartzScheduler_Worker-1:45568 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 12:04:20 CST 2015
+2015-03-27 12:04:20  [ QuartzScheduler_Worker-1:45568 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 12:04:20  [ QuartzScheduler_Worker-1:45569 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 14:36:36  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:36:36  [ main:10 ] - [ ERROR ]  Based on configured schedule, the given trigger will never fire.
+2015-03-27 14:37:17  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:37:17  [ main:10 ] - [ ERROR ]  Based on configured schedule, the given trigger will never fire.
+2015-03-27 14:37:52  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:37:52  [ main:9 ] - [ ERROR ]  Based on configured schedule, the given trigger will never fire.
+2015-03-27 14:38:16  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:38:16  [ QuartzScheduler_Worker-4:28 ] - [ INFO ]  age:26岁
+2015-03-27 14:38:16  [ QuartzScheduler_Worker-4:28 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:38:20  [ QuartzScheduler_Worker-4:3630 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 14:38:20 CST 2015
+2015-03-27 14:38:20  [ QuartzScheduler_Worker-4:3630 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 14:38:20  [ QuartzScheduler_Worker-4:3632 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 14:38:26  [ QuartzScheduler_Worker-4:10027 ] - [ INFO ]  age:26岁
+2015-03-27 14:38:26  [ QuartzScheduler_Worker-4:10027 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:38:30  [ QuartzScheduler_Worker-4:13622 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 14:38:30 CST 2015
+2015-03-27 14:38:30  [ QuartzScheduler_Worker-4:13622 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 14:38:30  [ QuartzScheduler_Worker-4:13623 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 14:38:36  [ QuartzScheduler_Worker-4:20026 ] - [ INFO ]  age:26岁
+2015-03-27 14:38:36  [ QuartzScheduler_Worker-4:20026 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:39:04  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:39:04  [ QuartzScheduler_Worker-4:24 ] - [ INFO ]  age:26岁
+2015-03-27 14:39:04  [ QuartzScheduler_Worker-4:24 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:39:10  [ QuartzScheduler_Worker-3:5161 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 14:39:10 CST 2015
+2015-03-27 14:39:10  [ QuartzScheduler_Worker-3:5161 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 14:39:10  [ QuartzScheduler_Worker-3:5163 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 14:40:09  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:40:09  [ QuartzScheduler_Worker-4:25 ] - [ INFO ]  age:26岁
+2015-03-27 14:40:09  [ QuartzScheduler_Worker-4:25 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:40:10  [ QuartzScheduler_Worker-4:728 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 14:40:10 CST 2015
+2015-03-27 14:40:10  [ QuartzScheduler_Worker-4:728 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 14:40:10  [ QuartzScheduler_Worker-4:730 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 14:40:19  [ QuartzScheduler_Worker-4:10027 ] - [ INFO ]  age:26岁
+2015-03-27 14:40:19  [ QuartzScheduler_Worker-4:10027 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:40:20  [ QuartzScheduler_Worker-0:10727 ] - [ INFO ]  ScanDirectory fired at Fri Mar 27 14:40:20 CST 2015
+2015-03-27 14:40:20  [ QuartzScheduler_Worker-0:10728 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-03-27 14:40:20  [ QuartzScheduler_Worker-0:10728 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-03-27 14:40:46  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:40:46  [ QuartzScheduler_Worker-4:23 ] - [ INFO ]  age:26岁
+2015-03-27 14:40:46  [ QuartzScheduler_Worker-4:23 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:40:46  [ main:120 ] - [ ERROR ]  Parse Fatal Error at line 41 column 5: Premature end of file.
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:195)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:174)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:388)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1414)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:1059)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.TestStatefulJob.startScheduler(TestStatefulJob.java:39)
+	at cn.edu.ahpu.quartz.demo.chap4.TestStatefulJob.main(TestStatefulJob.java:20)
+2015-03-27 14:40:46  [ main:149 ] - [ ERROR ]  Error scheduling jobs: Premature end of file.
+org.xml.sax.SAXParseException: Premature end of file.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.TestStatefulJob.startScheduler(TestStatefulJob.java:39)
+	at cn.edu.ahpu.quartz.demo.chap4.TestStatefulJob.main(TestStatefulJob.java:20)
+2015-03-27 14:41:13  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:41:13  [ QuartzScheduler_Worker-4:27 ] - [ INFO ]  age:26岁
+2015-03-27 14:41:13  [ QuartzScheduler_Worker-4:27 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:41:23  [ QuartzScheduler_Worker-4:10023 ] - [ INFO ]  age:26岁
+2015-03-27 14:41:23  [ QuartzScheduler_Worker-4:10023 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:42:11  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:42:12  [ QuartzScheduler_Worker-4:26 ] - [ INFO ]  age:26岁
+2015-03-27 14:42:12  [ QuartzScheduler_Worker-4:26 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:42:22  [ QuartzScheduler_Worker-1:10025 ] - [ INFO ]  age:26岁1
+2015-03-27 14:42:22  [ QuartzScheduler_Worker-1:10025 ] - [ INFO ]  name:蒋怀双1
+2015-03-27 14:42:32  [ QuartzScheduler_Worker-2:20026 ] - [ INFO ]  age:26岁11
+2015-03-27 14:42:32  [ QuartzScheduler_Worker-2:20026 ] - [ INFO ]  name:蒋怀双11
+2015-03-27 14:42:53  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-03-27 14:42:53  [ QuartzScheduler_Worker-4:26 ] - [ INFO ]  age:26岁
+2015-03-27 14:42:53  [ QuartzScheduler_Worker-4:26 ] - [ INFO ]  name:蒋怀双
+2015-03-27 14:43:03  [ QuartzScheduler_Worker-1:10026 ] - [ INFO ]  age:26岁1
+2015-03-27 14:43:03  [ QuartzScheduler_Worker-1:10026 ] - [ INFO ]  name:蒋怀双1

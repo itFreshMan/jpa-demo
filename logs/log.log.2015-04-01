@@ -1,0 +1,229 @@
+2015-04-01 15:49:35  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 15:49:35  [ QuartzScheduler_Worker-4:298 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:38  [ QuartzScheduler_Worker-4:3310 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:41  [ QuartzScheduler_Worker-4:6322 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:44  [ QuartzScheduler_Worker-4:9334 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:45  [ QuartzScheduler_Worker-1:10302 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:47  [ QuartzScheduler_Worker-4:12346 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:48  [ QuartzScheduler_Worker-1:13314 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:50  [ QuartzScheduler_Worker-4:15357 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:49:51  [ QuartzScheduler_Worker-1:16326 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:54  [ QuartzScheduler_Worker-1:19336 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:55  [ QuartzScheduler_Worker-3:20305 ] - [ INFO ]  Processing the job
+2015-04-01 15:49:57  [ QuartzScheduler_Worker-1:22348 ] - [ INFO ]  Processing the job
+2015-04-01 15:50:23  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 15:50:23  [ QuartzScheduler_Worker-4:125 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:50:26  [ QuartzScheduler_Worker-4:3135 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:50:29  [ QuartzScheduler_Worker-4:6147 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:50:32  [ QuartzScheduler_Worker-4:9153 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:50:33  [ QuartzScheduler_Worker-0:10121 ] - [ INFO ]  QuartzScheduler_Worker-0 -- Processing the job
+2015-04-01 15:50:35  [ QuartzScheduler_Worker-4:12165 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:50:36  [ QuartzScheduler_Worker-0:13133 ] - [ INFO ]  QuartzScheduler_Worker-0 -- Processing the job
+2015-04-01 15:50:38  [ QuartzScheduler_Worker-4:15177 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:50:39  [ QuartzScheduler_Worker-0:16145 ] - [ INFO ]  QuartzScheduler_Worker-0 -- Processing the job
+2015-04-01 15:50:42  [ QuartzScheduler_Worker-0:19156 ] - [ INFO ]  QuartzScheduler_Worker-0 -- Processing the job
+2015-04-01 15:50:43  [ QuartzScheduler_Worker-2:20124 ] - [ INFO ]  QuartzScheduler_Worker-2 -- Processing the job
+2015-04-01 15:50:45  [ QuartzScheduler_Worker-0:22168 ] - [ INFO ]  QuartzScheduler_Worker-0 -- Processing the job
+2015-04-01 15:50:46  [ QuartzScheduler_Worker-2:23136 ] - [ INFO ]  QuartzScheduler_Worker-2 -- Processing the job
+2015-04-01 15:50:48  [ QuartzScheduler_Worker-0:25180 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:50:49  [ QuartzScheduler_Worker-2:26148 ] - [ INFO ]  QuartzScheduler_Worker-2 -- Processing the job
+2015-04-01 15:50:52  [ QuartzScheduler_Worker-2:29151 ] - [ INFO ]  QuartzScheduler_Worker-2 -- Processing the job
+2015-04-01 15:50:53  [ QuartzScheduler_Worker-3:30119 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 15:50:55  [ QuartzScheduler_Worker-2:32162 ] - [ INFO ]  QuartzScheduler_Worker-2 -- Processing the job
+2015-04-01 15:50:56  [ QuartzScheduler_Worker-3:33131 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 15:50:58  [ QuartzScheduler_Worker-2:35174 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:52:05  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 15:52:05  [ QuartzScheduler_Worker-4:125 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:06  [ QuartzScheduler_Worker-4:1139 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:07  [ QuartzScheduler_Worker-4:2154 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:08  [ QuartzScheduler_Worker-4:3155 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:09  [ QuartzScheduler_Worker-4:4170 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:10  [ QuartzScheduler_Worker-4:5185 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:52:15  [ QuartzScheduler_Worker-4:10120 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:16  [ QuartzScheduler_Worker-4:11135 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:17  [ QuartzScheduler_Worker-4:12136 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:18  [ QuartzScheduler_Worker-4:13138 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:19  [ QuartzScheduler_Worker-4:14153 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:20  [ QuartzScheduler_Worker-4:15153 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:52:25  [ QuartzScheduler_Worker-4:20130 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:26  [ QuartzScheduler_Worker-4:21145 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:52:27  [ QuartzScheduler_Worker-4:22160 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:54:44  [ main:15 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 15:54:45  [ QuartzScheduler_Worker-4:124 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:54:46  [ QuartzScheduler_Worker-4:1138 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:54:47  [ QuartzScheduler_Worker-4:2139 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:54:48  [ QuartzScheduler_Worker-4:3154 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:54:49  [ QuartzScheduler_Worker-4:4156 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:54:50  [ QuartzScheduler_Worker-4:5159 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 15:55:10  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 15:55:10  [ QuartzScheduler_Worker-4:125 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:55:11  [ QuartzScheduler_Worker-4:1129 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:55:12  [ QuartzScheduler_Worker-4:2132 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:55:13  [ QuartzScheduler_Worker-4:3147 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:55:14  [ QuartzScheduler_Worker-4:4147 ] - [ INFO ]  QuartzScheduler_Worker-4 -- Processing the job
+2015-04-01 15:55:15  [ QuartzScheduler_Worker-4:5162 ] - [ INFO ]  Job was interrupted
+2015-04-01 16:17:09  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:30:10  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:31:00  [ QuartzScheduler_Worker-3:49356 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 16:31:01  [ QuartzScheduler_Worker-3:50356 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 16:31:02  [ QuartzScheduler_Worker-3:51356 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 16:31:03  [ QuartzScheduler_Worker-3:52356 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 16:31:04  [ QuartzScheduler_Worker-3:53357 ] - [ INFO ]  QuartzScheduler_Worker-3 -- Processing the job
+2015-04-01 16:31:05  [ QuartzScheduler_Worker-3:54357 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 16:31:21  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:31:30  [ QuartzScheduler_Worker-1:8369 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:31  [ QuartzScheduler_Worker-1:9370 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:32  [ QuartzScheduler_Worker-1:10370 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:33  [ QuartzScheduler_Worker-1:11371 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:34  [ QuartzScheduler_Worker-1:12372 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:35  [ QuartzScheduler_Worker-1:13372 ] - [ INFO ]  Job finished without interrupt
+2015-04-01 16:31:45  [ QuartzScheduler_Worker-1:23364 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:46  [ QuartzScheduler_Worker-1:24365 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:31:47  [ QuartzScheduler_Worker-1:25365 ] - [ INFO ]  QuartzScheduler_Worker-1 -- Processing the job
+2015-04-01 16:42:38  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:43:09  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:43:09  [ main:67 ] - [ ERROR ]  Parse Fatal Error at line 1 column 7: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:195)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:174)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:388)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1414)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPIData(XMLScanner.java:701)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanPIData(XMLDocumentFragmentScannerImpl.java:1016)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPI(XMLScanner.java:669)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:954)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:26)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:19)
+2015-04-01 16:43:09  [ main:86 ] - [ ERROR ]  Error scheduling jobs: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:26)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:19)
+2015-04-01 16:44:26  [ main:1 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:44:26  [ main:66 ] - [ ERROR ]  Parse Fatal Error at line 1 column 7: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:195)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:174)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:388)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1414)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPIData(XMLScanner.java:701)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanPIData(XMLDocumentFragmentScannerImpl.java:1016)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPI(XMLScanner.java:669)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:954)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:26)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:19)
+2015-04-01 16:44:26  [ main:70 ] - [ ERROR ]  Error scheduling jobs: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:26)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:19)
+2015-04-01 16:45:36  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:45:36  [ main:65 ] - [ ERROR ]  Parse Fatal Error at line 1 column 7: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.createSAXParseException(ErrorHandlerWrapper.java:195)
+	at com.sun.org.apache.xerces.internal.util.ErrorHandlerWrapper.fatalError(ErrorHandlerWrapper.java:174)
+	at com.sun.org.apache.xerces.internal.impl.XMLErrorReporter.reportError(XMLErrorReporter.java:388)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.reportFatalError(XMLScanner.java:1414)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPIData(XMLScanner.java:701)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanPIData(XMLDocumentFragmentScannerImpl.java:1016)
+	at com.sun.org.apache.xerces.internal.impl.XMLScanner.scanPI(XMLScanner.java:669)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl$PrologDriver.next(XMLDocumentScannerImpl.java:954)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(XMLDocumentScannerImpl.java:648)
+	at com.sun.org.apache.xerces.internal.impl.XMLNSDocumentScannerImpl.next(XMLNSDocumentScannerImpl.java:140)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(XMLDocumentFragmentScannerImpl.java:510)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:807)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(XML11Configuration.java:737)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(XMLParser.java:107)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1205)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:26)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:19)
+2015-04-01 16:45:36  [ main:69 ] - [ ERROR ]  Error scheduling jobs: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+org.xml.sax.SAXParseException: The processing instruction target matching "[xX][mM][lL]" is not allowed.
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(AbstractSAXParser.java:1231)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(SAXParserImpl.java:522)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1745)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFile(JobSchedulingDataProcessor.java:430)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:499)
+	at org.quartz.xml.JobSchedulingDataProcessor.processFileAndScheduleJobs(JobSchedulingDataProcessor.java:485)
+	at org.quartz.plugins.xml.JobInitializationPlugin.processFile(JobInitializationPlugin.java:401)
+	at org.quartz.plugins.xml.JobInitializationPlugin.start(JobInitializationPlugin.java:375)
+	at org.quartz.core.QuartzScheduler.startPlugins(QuartzScheduler.java:1919)
+	at org.quartz.core.QuartzScheduler.start(QuartzScheduler.java:397)
+	at org.quartz.impl.StdScheduler.start(StdScheduler.java:147)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.startScheduler(Listing_4_3.java:26)
+	at cn.edu.ahpu.quartz.demo.chap4.Listing_4_3.main(Listing_4_3.java:19)
+2015-04-01 16:46:00  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:46:12  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:46:20  [ QuartzScheduler_Worker-3:7271 ] - [ INFO ]  ScanDirectory fired at Wed Apr 01 16:46:20 CST 2015
+2015-04-01 16:46:20  [ QuartzScheduler_Worker-3:7272 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-04-01 16:46:20  [ QuartzScheduler_Worker-3:7273 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-04-01 16:47:06  [ main:1 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:47:36  [ main:0 ] - [ INFO ]  Scheduler starting up...
+2015-04-01 16:47:45  [ QuartzScheduler_Worker-4:8175 ] - [ INFO ]  ScanDirectory fired at Wed Apr 01 16:47:45 CST 2015
+2015-04-01 16:47:45  [ QuartzScheduler_Worker-4:8176 ] - [ WARN ]  不存在文件夹[c:\quartz-book\input]
+2015-04-01 16:47:45  [ QuartzScheduler_Worker-4:8177 ] - [ INFO ]  No XML files found in c:\quartz-book\input
+2015-04-01 16:48:45  [ main:0 ] - [ INFO ]  Scheduler starting up...
