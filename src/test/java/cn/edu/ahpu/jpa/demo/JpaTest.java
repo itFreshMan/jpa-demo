@@ -156,4 +156,55 @@ public class JpaTest {
 		em.close();
 		factory.close();
 	}
+	
+	
+	
+	@Test
+	public void saveMulti() {
+		EntityManagerFactory factory = Persistence.createEntityManagerFactory(persistenceUnitName);
+		
+		//-->sessionFactory-->session-->begin事务
+		EntityManager em = factory.createEntityManager();
+		em.getTransaction().begin();
+		Person pNew = new Person("传智博客"+System.currentTimeMillis());
+		em.persist(pNew);
+		Integer pid = pNew.getId();
+		
+		System.out.println(em.find(Person.class, pid));
+		
+		System.out.println(em.getReference(Person.class, pid));
+		Query query = em.createQuery("select p from Person p where p.id = ?100");
+		query.setParameter(100, pid);
+		System.out.println(query.getSingleResult());//数据库中没有，但是能够查出来，
+		saveTransaction(pid);//
+		em.getTransaction().commit();
+//		em.getTransaction().rollback();
+		em.close();
+		factory.close();
+	}
+	
+	public void saveTransaction(Integer pid){
+		EntityManagerFactory factory = Persistence.createEntityManagerFactory(persistenceUnitName);
+		
+		//-->sessionFactory-->session-->begin事务
+		EntityManager em = factory.createEntityManager();
+		System.out.println("------------"+em.find(Person.class, pid));
+		
+		try {
+			System.out.println("------------"+em.getReference(Person.class, pid));//不存在会报错
+		} catch (Exception e) {
+			e.printStackTrace();
+		}
+		try {
+			Query query = em.createQuery("select p from Person p where p.id = ?100");
+			query.setParameter(100, pid);
+			System.out.println("------------"+query.getSingleResult());
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+		}
+		em.close();
+		factory.close();
+		
+	}
 }
